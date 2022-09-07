@@ -410,3 +410,8 @@ div#footer{
 .para {
 	text-align: left;
 }
+
+.space {
+	padding: 30px;
+	margin: 30px;
+}
